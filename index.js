@@ -28,6 +28,10 @@ const beanLines = [
   "eat ur beans kids",
   "corn betrayed me...",
   "Where have you bean all my life",
+  "do you like femboi beans?",
+  "beans are sigma",
+  "bean are happy",
+  "we are BEANY KIRK!!!",
   "beans: $1.29",
   "beans are sssssssooooooooooo me",
   "You are a poopie pants idiot",
@@ -42,6 +46,17 @@ const beanLines = [
   "certified bean activity",
   "beans detected",
   "bean energy fr",
+  "im a rel beaner",
+  "ive been beaning all night long",
+  "w bean l corn",
+  "@beanieeeeeeeeeeeeeeesssssssssssssssss lol",
+  "i see out your beans",
+  "beanfair every bean every bean",
+  "bbbbbbbbbbbbbigggggggggggggggggggggggggg beaaaaaaaaaaanssss",
+  "beancream icecream dancing on my beans",
+  "your beans<mine",
+  "my bean is in ur bean",
+  "BEANS..... (whispering):assemble",
   "this convo needs more beans",
   "beans are carrying rn",
   "bean thoughts only",
@@ -184,4 +199,5 @@ function startTalking() {
 }
 
 client.login(TOKEN);
+
 
