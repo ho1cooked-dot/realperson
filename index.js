@@ -23,8 +23,7 @@ const activeChannels = new Map();
 
 // ---------- LINES ----------
 const beanLines = [
-  // ---------- 1000 MORE BEAN LINES ----------
-beanLines.push(
+
   "beans save lives",
   "beans ruined my sleep schedule",
   "beans are the main character",
@@ -350,6 +349,7 @@ function startTalking() {
 }
 
 client.login(TOKEN);
+
 
 
 
