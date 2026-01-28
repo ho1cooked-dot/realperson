@@ -23,9 +23,16 @@ const activeChannels = new Map();
 
 // ---------- LINES ----------
 const beanLines = [
-  "beans are elite",
+  "beans are elite, as is you",
   "beans supremacy",
+  "eat ur beans kids",
+  "corn betrayed me...",
+  "Where have you bean all my life",
+  "beans: $1.29",
+  "beans are sssssssooooooooooo me",
+  "You are a poopie pants idiot",
   "bro who invented beans",
+  "#ilovebeans",
   "beans kinda go hard ngl",
   "thinking about beans rn",
   "beans moment",
@@ -47,7 +54,8 @@ const beanLines = [
   "beans living rent free in my head",
   "beans understood the assignment",
   "beans lowkey iconic",
-  "bean activities confirmed"
+  "bean activities confirmed",
+  "The bean king is amoung us lol"
 ];
 
 const normalLines = [
@@ -61,6 +69,7 @@ const normalLines = [
   "honestly same",
   "real",
   "nah",
+  "if you break the rules ill come for you",
   "yeah probably",
   "true",
   "i’m confused",
@@ -175,3 +184,4 @@ function startTalking() {
 }
 
 client.login(TOKEN);
+
