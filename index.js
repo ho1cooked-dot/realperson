@@ -28,7 +28,6 @@ const beanLines = [
   "eat ur beans kids",
   "corn betrayed me...",
   "Where have you bean all my life",
-  "do you like femboi beans?",
   "beans are sigma",
   "bean are happy",
   "we are BEANY KIRK!!!",
@@ -199,5 +198,6 @@ function startTalking() {
 }
 
 client.login(TOKEN);
+
 
 
