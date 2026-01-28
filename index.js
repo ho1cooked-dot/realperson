@@ -145,7 +145,7 @@ client.once("ready", async () => {
     await guild.commands.create(data);
   }
 
-  console.log(Logged in as ${client.user.tag});
+  console.log(`Logged in as ${client.user.tag}`);
   startTalking();
 });
 
@@ -198,6 +198,7 @@ function startTalking() {
 }
 
 client.login(TOKEN);
+
 
 
 
